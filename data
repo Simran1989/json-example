@@ -1,0 +1,58 @@
+[
+	{
+		"id": 0,
+		"image": "https://assets.limetray.com/assets/user_images/menus/compressed/1589378077_PeshawariPannerBiryani.jpg",
+		"title": "Peshawari Panner Biryani",
+		"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+		"price": 250
+	},
+	{
+		"id": 1,
+		"image": "https://assets.limetray.com/assets/user_images/menus/compressed/1589376812_BombayMasalaBiryani.jpg",
+		"title": "Bombay Masala Biryani",
+		"description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+		"price": 250
+	},
+	{
+		"id": 2,
+		"image": "https://assets.limetray.com/assets/user_images/menus/compressed/1589376389_AwadhiSubzBiryani.jpg",
+		"title": "Awadhi Subz Biryani",
+		"description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+		"price": 250
+	},
+	{
+		"id": 3,
+		"image": "https://assets.limetray.com/assets/user_images/menus/compressed/1555942836_LuckmowChowkKiSubzBiryaniDSC2171.jpg",
+		"title": "Luckmow Chowk Ki Subz Biryani",
+		"description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+		"price": 250
+	},
+	{
+		"id": 4,
+		"image": "https://assets.limetray.com/assets/user_images/menus/compressed/1555942710_CulcuttaEggBiryaniDSC2171.jpg",
+		"title": "Culcutta Egg Biryani",
+		"description": " It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. ",
+		"price": 250
+	},
+	{
+		"id": 5,
+		"image": "https://assets.limetray.com/assets/user_images/menus/compressed/1589376706_BohriMurghMasalabiryani.jpg",
+		"title": "Bohri Murgh Masala Biryani",
+		"description": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.",
+		"price": 250
+	},
+	{
+		"id": 6,
+		"image": "https://assets.limetray.com/assets/user_images/menus/compressed/1589377424_HyderabadiMurghBiryani.jpg",
+		"title": "Hyderabadi Murgh Biryani",
+		"description": "It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. ",
+		"price": 250
+	},
+	{
+		"id": 7,
+		"image": "https://assets.limetray.com/assets/user_images/menus/compressed/1555942532_LucknowChowkKiMurghBiryaniDSC2171.jpg",
+		"title": "Lucknow Chowk Ki Murgh Biryani",
+		"description": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. ",
+		"price": 250
+	}
+]
